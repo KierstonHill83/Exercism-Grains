@@ -44,7 +44,7 @@ describe('Grains', function () {
     expect(grains.square(3)).toBe('4');
   });
 
-  xit('square 4', function () {
+  it('square 4', function () {
     expect(grains.square(4)).toBe('8');
   });
 
